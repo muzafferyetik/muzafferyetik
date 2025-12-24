@@ -45,16 +45,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muzafferyetik&show_icons=true&theme=tokyonight&hide_border=true&locale=tr" height="180" alt="stats-graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzafferyetik&layout=compact&theme=tokyonight&hide_border=true&locale=tr" height="180" alt="languages-graph" />
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzafferyetik&theme=tokyonight&hide_border=true&locale=tr" alt="streak-graph" />
+  <img src="https://streak-stats.demolab.com/?user=muzafferyetik&theme=tokyonight&hide_border=true&locale=tr" alt="streak-graph" />
 </div>
-
----
 
 ### 🔗 Benimle Bağlantı Kurun
 
